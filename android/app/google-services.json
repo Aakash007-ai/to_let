@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1062569231056",
+    "project_id": "to-let-dcbb1",
+    "storage_bucket": "to-let-dcbb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062569231056:android:b53858b0a997dd2a2294d5",
+        "android_client_info": {
+          "package_name": "com.example.to_let"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062569231056-higsqvs8m6p6vctf9k4oeomfu6htd4u6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxOKOBU4eLclEvEhdxyEHwLPCyHmvERM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062569231056-higsqvs8m6p6vctf9k4oeomfu6htd4u6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
